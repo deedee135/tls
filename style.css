@@ -1,0 +1,9 @@
+body{
+    text-align: center;
+    background-color:rgb(174, 112, 233) ;
+    color: aquamarine;
+    }
+    h1{
+        text-shadow:2px 2px pink ;
+        color: rgb(1, 1, 57);
+    }
